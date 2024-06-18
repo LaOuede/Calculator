@@ -33,7 +33,7 @@ I've acquired a lot of essential knowledge with:
 
 <h3 align="left">🖥 Display</h3>
 
-<img width="1005" alt="Calculator Screenshot" src="https://github.com/LaOuede/RockPaperScissors/blob/main/images/display.png">
+<img width="1005" alt="Calculator Screenshot" src="https://github.com/LaOuede/Calculator/blob/main/images/screenshot.png">
 
 ---
 
