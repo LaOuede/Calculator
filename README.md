@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LaOuede/Calculator/blob/main/images/icon.png" width="90"/>
+  <img src="https://github.com/LaOuede/Calculator/blob/main/images/Calculator.png" width="90"/>
 </p>
 
 <h1 align="center">Calculator</h1>
